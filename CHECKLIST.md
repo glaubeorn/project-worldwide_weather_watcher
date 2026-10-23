@@ -1,26 +1,3 @@
-# ✅ Checklist — Station météo Worldwide Weather Watcher
-
-> Ce qui est demandé dans le PDF *« Modes de fonctionnement »*, ce qui est fait, et ce qu'il reste.
->
-> **✅ fait et testé** · **🧪 fait, à tester par vous** · **❌ pas encore fait**
-
----
-
-## 📊 Où on en est
-
-```
-Capteurs et matériel   ██████████  fini
-LED d'état             ██████████  fini
-Mode standard          ██████████  fini
-Mode configuration     ██████████  fini
-Mode maintenance       ██████████  fini
-Mode économique        ██████████  fini
-Carte SD               █████████░  fini ; reste à tester la carte pleine et le retrait réel
-Livrables              ░░░░░░░░░░  à faire
-```
-
----
-
 ## 🔌 1. Le matériel
 
 - ✅ **Température, humidité, pression** : capteur BME280, sur un port **I2C**
