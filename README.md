@@ -461,4 +461,4 @@ Les petites variables (indices, valeurs lues, structures de quelques octets) res
 - [Documentation PlatformIO](https://docs.platformio.org/)
 - [Dépôt d'architecture Worldwide Weather Watcher](https://github.com/ValentinMoraine/Worldwide-Weather-Watcher)
 
-Projet réalisé par l'équipe du dépôt [samyr13/Projet-Worldwide-Weather-Watcher](https://github.com/samyr13/Projet-Worldwide-Weather-Watcher).
+Projet réalisé par l'équipe du dépôt [glaubeorn/Projet-Worldwide-Weather-Watcher](https://github.com/glaubeorn/project-worldwide_weather_watcher).
